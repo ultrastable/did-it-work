@@ -1,0 +1,9 @@
+{
+  "name": "did-it-work",
+  "private": true,
+  "type": "module",
+  "description": "Every big policy promised something. See what it promised, what the evaluations found since, and how the verdict moved.",
+  "scripts": {
+    "test": "node --test --no-warnings worker/*.test.mjs"
+  }
+}
