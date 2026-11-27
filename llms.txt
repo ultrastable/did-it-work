@@ -1,0 +1,21 @@
+# Did It Work?
+
+> Every big policy promised something. See what it promised, what the evaluations found since, and how the verdict moved.
+
+A daily beat searches open evaluation and trial registries for each case, adds new evaluations, re-grades the verdict when evidence piles up, and logs every change of verdict with its reason.
+
+## Start here
+
+- [README.md](README.md): what it is, where it runs and how it runs
+- [AGENTS.md](AGENTS.md): instructions for any coding agent
+- [IDEA.md](IDEA.md): the one file a person writes
+- [ultrastable.json](ultrastable.json): the manifest this file, the README blocks, CITATION.cff, publiccode.yml and codemeta.json are rendered from
+- [codemeta.json](codemeta.json): software metadata (CodeMeta 3.0)
+
+## Optional
+
+- [Source](https://github.com/ultrastable/did-it-work): the repository
+- [LICENSE](LICENSE): the licence, LicenseRef-Ultrastable-USL-1.0
+- [CONTRIBUTING.md](CONTRIBUTING.md): how work is contributed
+- [SECURITY.md](SECURITY.md): how to report a vulnerability
+- [CHANGELOG.md](CHANGELOG.md): what changed, release by release

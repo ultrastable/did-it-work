@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - name: "Rowan Brad Quni-Gudzinas"
+title: "Did It Work?"
+abstract: "Every big policy promised something. See what it promised, what the evaluations found since, and how the verdict moved."
+repository-code: "https://github.com/ultrastable/did-it-work"
+license-url: "https://github.com/ultrastable/did-it-work/blob/main/LICENSE"
